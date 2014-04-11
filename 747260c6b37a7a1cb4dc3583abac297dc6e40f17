@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_737ec2af",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-04-11T04:32:21Z",
+      "side": 0,
+      "message": "Any reason this got removed? (Aside from personal preference?) Google\u0027s guidelines state that long press home should be voice search.",
+      "revId": "747260c6b37a7a1cb4dc3583abac297dc6e40f17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_f348128a",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-04-11T04:32:21Z",
+      "side": 0,
+      "message": "This looks wrong, double tap home should be recent apps according to Google\u0027s guidelines.",
+      "revId": "747260c6b37a7a1cb4dc3583abac297dc6e40f17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_535e2646",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 193,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-04-11T04:32:21Z",
+      "side": 0,
+      "message": "Was this a duplicate, or did you actually mean to remove this?",
+      "revId": "747260c6b37a7a1cb4dc3583abac297dc6e40f17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
