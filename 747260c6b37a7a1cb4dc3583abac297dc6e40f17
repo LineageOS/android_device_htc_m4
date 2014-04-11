@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7af24918_d317d652",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 8657
+      },
+      "writtenOn": "2014-04-11T04:48:37Z",
+      "side": 0,
+      "message": "See first bullet point in commit message; 2 is the default set in frameworks. Both s4 (well, ville, at least) and m7 leave it at 2. I have no personal preference, to be honest.",
+      "parentUuid": "7af24918_737ec2af",
+      "revId": "747260c6b37a7a1cb4dc3583abac297dc6e40f17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7af24918_f348128a",
         "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
         "patchSetId": 1
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "7af24918_e5fe8504",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 8657
+      },
+      "writtenOn": "2014-04-11T04:48:37Z",
+      "side": 0,
+      "message": "I\u0027ll send a followup for this. If it\u0027s wrong m7 should also be updated.",
+      "parentUuid": "7af24918_f348128a",
+      "revId": "747260c6b37a7a1cb4dc3583abac297dc6e40f17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7af24918_535e2646",
         "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
         "patchSetId": 1
@@ -47,6 +83,24 @@
       "writtenOn": "2014-04-11T04:32:21Z",
       "side": 0,
       "message": "Was this a duplicate, or did you actually mean to remove this?",
+      "revId": "747260c6b37a7a1cb4dc3583abac297dc6e40f17",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_050e1134",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 193,
+      "author": {
+        "id": 8657
+      },
+      "writtenOn": "2014-04-11T04:48:37Z",
+      "side": 0,
+      "message": "Yes, it\u0027s a dupe. It\u0027s previously defined on line 218. I\u0027ll probably reorganize the file to follow frameworks order at some point.",
+      "parentUuid": "7af24918_535e2646",
       "revId": "747260c6b37a7a1cb4dc3583abac297dc6e40f17",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
