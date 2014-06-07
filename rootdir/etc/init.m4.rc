@@ -254,6 +254,9 @@ on boot
     chmod 0220 /sys/class/power_supply/battery/navigation
 # HTC SSD Battery - END
 
+    # TapToWake
+    chown system system /sys/android_touch/tap_to_wake
+
 # Services start here
 service akmd /system/bin/akmd
     class main

@@ -89,6 +89,8 @@ WIFI_DRIVER_FW_PATH_STA          := "/system/etc/firmware/fw_bcm4334.bin"
 WIFI_DRIVER_FW_PATH_AP           := "/system/etc/firmware/fw_bcm4334_apsta.bin"
 WIFI_DRIVER_FW_PATH_P2P          := "/system/etc/firmware/fw_bcm4334_p2p.bin"
 
+BOARD_HARDWARE_CLASS := device/htc/m4/cmhw/
+
 # cat /proc/emmc
 #dev:        size     erasesize name
 #mmcblk0p21: 000ffa00 00000200 "misc"
