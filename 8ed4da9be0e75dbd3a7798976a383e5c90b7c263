@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_92e874e4",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 5530
+      },
+      "writtenOn": "2014-09-25T10:05:19Z",
+      "side": 1,
+      "message": "m7-common eh?",
+      "revId": "8ed4da9be0e75dbd3a7798976a383e5c90b7c263",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
