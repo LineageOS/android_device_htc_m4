@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_cdc9ad7a",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-09-26T09:07:32Z",
+      "side": 0,
+      "message": "You need to explicitly declare TARGET_POWERHAL_VARIANT :\u003d qcom and add device/qcom/common to your cm.dependencies to use the Qualcomm power HAL.",
+      "revId": "2ecca1cd1e0e985889321a32b6215ac1377a1932",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
