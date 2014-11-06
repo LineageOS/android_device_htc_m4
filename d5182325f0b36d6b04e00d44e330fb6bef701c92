@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a18252c_1deca5c6",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 130,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2014-11-06T01:20:40Z",
+      "side": 1,
+      "message": "This shouldn\u0027t hurt anything, but actually isn\u0027t necessary since your recovery folder is in the device tree (as opposed to a -common tree).",
+      "revId": "d5182325f0b36d6b04e00d44e330fb6bef701c92",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
