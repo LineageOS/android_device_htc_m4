@@ -2104,4 +2104,3 @@ int loc_eng_read_config(void)
     EXIT_LOG(%d, 0);
     return 0;
 }
-

@@ -54,4 +54,3 @@ int loc_eng_dmn_conn_loc_api_server_join(void);
 int loc_eng_dmn_conn_loc_api_server_data_conn(int, int);
 
 #endif /* LOC_ENG_DATA_SERVER_H */
-

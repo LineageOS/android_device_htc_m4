@@ -235,4 +235,3 @@ int loc_eng_dmn_conn_loc_api_server_data_conn(int sender_id, int status) {
   }
   return 0;
 }
-
