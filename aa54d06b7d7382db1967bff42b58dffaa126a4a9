@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_681d1d0f",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 4123
+      },
+      "writtenOn": "2014-11-15T11:43:48Z",
+      "side": 1,
+      "message": "Whitespace? :-O",
+      "revId": "aa54d06b7d7382db1967bff42b58dffaa126a4a9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
