@@ -1,0 +1,1 @@
+allow system_server timerirq_device:chr_file { open read write ioctl };

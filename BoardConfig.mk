@@ -79,6 +79,12 @@ BOARD_USES_LEGACY_MMAP := true
 # SELinux
 -include device/qcom/sepolicy/sepolicy.mk
 
+BOARD_SEPOLICY_DIRS += \
+    device/htc/m4/sepolicy
+
+BOARD_SEPOLICY_UNION += \
+    akmd.te
+
 # Vold
 BOARD_VOLD_MAX_PARTITIONS := 37
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/platform/msm_hsusb/gadget/lun%d/file
