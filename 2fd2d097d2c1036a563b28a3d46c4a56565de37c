@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_4fc64d4a",
+        "filename": "ril/telephony/java/com/android/internal/telephony/HTCQualcommRIL.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2015-01-08T13:11:07Z",
+      "side": 1,
+      "message": "This belongs outside of the if(__)",
+      "revId": "2fd2d097d2c1036a563b28a3d46c4a56565de37c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
