@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_ac1b7f1a",
+        "filename": "ril/telephony/java/com/android/internal/telephony/HTCQualcommRIL.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2015-01-08T06:59:22Z",
+      "side": 1,
+      "message": "if () not necessary since you\u0027re force enabling",
+      "revId": "e31c5301c0b7fe1c106b5f752ff22ae2b44ada58",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
